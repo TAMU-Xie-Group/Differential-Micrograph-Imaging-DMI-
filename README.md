@@ -9,3 +9,6 @@ In this work, we introduce differential micrograph imaging (DMI), a technique de
 3) Update the code with the file paths.
 4) Make sure you change the file read type to the same file type as your images
 5) Run the code!
+
+**If you use this code in your research, please cite our paper:**
+
